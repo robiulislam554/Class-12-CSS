@@ -1,0 +1,47 @@
+.box{
+    /* background-color: blue; */
+    color: turquoise;
+    border: 3px solid black;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.text{
+    /* background-color: blueviolet; */
+    color: blueviolet;
+    margin-top: 90px;
+    margin-left: 80px;    
+    padding: 5px;
+}
+
+.box2{
+    /* background-color: blueviolet; */
+    color: gold;
+    border: 2px dotted green;
+    margin: auto;
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.box3{
+    /* background-color: aquamarine; */
+    color: green;
+    border: 2px dashed red;
+    margin: auto;
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px
+}
+
+.text1{
+    color: green;
+    margin-top: 90px;
+    margin-left: 60px;
+    padding: 5px;
+}
